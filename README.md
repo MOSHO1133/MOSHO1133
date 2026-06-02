@@ -193,11 +193,23 @@ Available   : Open to collaborations & open-source contributions
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MOSHO1133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="98%"/>
+
+![](https://img.shields.io/badge/Commits-59-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Repos-10-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Followers-2-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Stars-1-ffd700?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Pull%20Requests-0-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Issues-0-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MOSHO1133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
+
+![](https://img.shields.io/badge/🔥_Streak-2_Days-orange?style=for-the-badge)
+![](https://img.shields.io/badge/📍_Location-Pakistan-green?style=for-the-badge)
+![](https://img.shields.io/badge/💻_Role-Full--Stack_Dev-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/🌱_Learning-Flutter_%26_Django-teal?style=for-the-badge)
+
 </div>
 
 ---
@@ -206,8 +218,8 @@ Available   : Open to collaborations & open-source contributions
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MOSHO1133-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOSHO1133)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-mohammadshees2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadshees2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shees-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shees17/)
 
 </div>
 
