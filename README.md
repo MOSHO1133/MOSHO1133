@@ -117,16 +117,74 @@ Available   : Open to collaborations & open-source contributions
 
 ---
 
-## 🗂️ Featured Projects
+## 🗂️ Featured Projects & Repositories
+
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔧 Tech Stack | ⭐ |
-|:---:|:---|:---:|:---:|
-| [**mad_project**](https://github.com/MOSHO1133/mad_project) | Cross-platform mobile application built with Flutter & Dart. Clean UI with smooth navigation and state management. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ⭐ |
-| [**weather-app**](https://github.com/MOSHO1133/weather-app-) | Real-time weather information app. Fetches live weather data with location-based forecasts and a clean dashboard interface. | ![API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ⭐ |
-| [**paas**](https://github.com/MOSHO1133/paas) | Python automation and scripting project. Lightweight tool focused on productivity and process automation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ |
-| [**TABS Harassment Band**](https://github.com/MOSHO1133/TABS--Harrasment-Band-) | C++ simulation project recreating the TABS Harassment Band mechanics with custom game logic and object-oriented design. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ⭐ |
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 1 | [**Flood-Detection-Model**](https://github.com/MOSHO1133/Flood-Detection-Model) | Deep learning model for real-time flood detection and prediction | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| 2 | [**DoS-Sentinel**](https://github.com/MOSHO1133/DoS-Sentinel) | AI-powered Denial of Service attack detection and monitoring system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 3 | [**developershub-aiml-internship-2026**](https://github.com/MOSHO1133/developershub-aiml-internship-2026) | AI & ML internship projects and assignments — 2026 cohort | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white) |
+
+</div>
+
+### 🌐 Web & Full Stack
+
+<div align="center">
+
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 1 | [**Zynxis**](https://github.com/MOSHO1133/Zynxis) | Full-stack web application — modern UI with robust backend architecture | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 2 | [**signaliq**](https://github.com/MOSHO1133/signaliq) | Smart signal intelligence web platform with real-time data processing | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 3 | [**Leads**](https://github.com/MOSHO1133/Leads) | Lead management and tracking web application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 4 | [**BookLens**](https://github.com/MOSHO1133/BookLens) | Book discovery and review platform with smart recommendations | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) |
+| 5 | [**weather-app**](https://github.com/MOSHO1133/weather-app-) | Real-time weather app with location-based forecasts and clean dashboard UI | ![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=gnu&logoColor=white) |
+
+</div>
+
+### 🎨 Portfolio & Personal
+
+<div align="center">
+
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 1 | [**Shees-Portfolio**](https://github.com/MOSHO1133/Shees-Portfolio) | Personal portfolio website showcasing projects, skills and experience | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 2 | [**my-portfolio**](https://github.com/MOSHO1133/my-portfolio) | Earlier portfolio version — design iterations and experiments | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
+</div>
+
+### 📱 Mobile Development
+
+<div align="center">
+
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 1 | [**mad_project**](https://github.com/MOSHO1133/mad_project) | Cross-platform mobile app with clean UI and smooth navigation | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 2 | [**Mobile-Application**](https://github.com/MOSHO1133/Mobile-Application) | Performance-critical mobile application built with C++ | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 3 | [**moble-app**](https://github.com/MOSHO1133/moble-app) | 4th semester course mobile app project | ![Mobile](https://img.shields.io/badge/-Mobile-gray?style=flat-square) |
+
+</div>
+
+### 🐍 Python & Automation
+
+<div align="center">
+
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 1 | [**paas**](https://github.com/MOSHO1133/paas) | Python automation & scripting tool for productivity and process automation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+### 🎮 Systems & Simulations
+
+<div align="center">
+
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 1 | [**TABS Harassment Band**](https://github.com/MOSHO1133/TABS--Harrasment-Band-) ⭐ | C++ simulation recreating TABS Harassment Band mechanics with OOP design and custom game logic | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
 </div>
 
