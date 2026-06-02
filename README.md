@@ -89,12 +89,19 @@ Available   : Open to collaborations & open-source contributions
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOSHO1133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MOSHO1133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" width="49%"/>
   <img src="https://streak-stats.demolab.com?user=MOSHO1133&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHO1133&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHO1133&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MOSHO1133&theme=tokyonight&utcOffset=5" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MOSHO1133&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MOSHO1133&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MOSHO1133&theme=tokyonight" width="32%"/>
 </div>
 
 ---
