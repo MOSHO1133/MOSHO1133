@@ -193,11 +193,14 @@ Available   : Open to collaborations & open-source contributions
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MOSHO1133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MOSHO1133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="98%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MOSHO1133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
 </div>
 
 ---
-
 ## 🤝 Connect With Me
 
 <div align="center">
